@@ -1,5 +1,7 @@
 <h2 align="center">Group Speed Dial: my setup.</h4>
 <p align="center">I've used a version of this setup for years. It's based on Group Speed Dial, a free, customizable addon. Built to go with my Firefox theme - <a href="https://github.com/marmmaz/FirefoxCSS">minimalFOX.</a></p>
+<p align=center><img width ='800px' src="https://i.imgur.com/pzPTEpm.png"</p>
+
 
 <h3 align="center">My Config</h3>
 <p align="center">Firstly, create your group. We will hide the option later on, so getting it out of the way first makes things easier.</p>
